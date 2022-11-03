@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/travel-image1.jpg",
+        "alt":"Tian Tan Buddha",
+        "name":"Tian Tan Buddha",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-image2.jpg",
+        "alt":"Ad Deir",
+        "name":"Ad Deir",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-image3.jpg",
+        "alt":"San Francisco",
+        "name":"San Francisco",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travel-image4.jpg",
+        "alt":"Paris",
+        "name":"Paris",
+        "button":"View Destination"
+    }
+]
